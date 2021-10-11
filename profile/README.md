@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/gircore/gir.core/develop/img/logo.svg" align="right" />
-
 ## Welcome to Gir.Core
 
 This organization wraps different repositories which are used to create the [Gir.Core](https://github.com/gircore/gir.core) project.

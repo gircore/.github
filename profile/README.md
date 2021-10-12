@@ -7,4 +7,4 @@ We aim to provide C# bindings for GObject based libraries including a C# friendl
 * The code can be found in the [gir.core](https://github.com/gircore/gir.core) repository.
 * To generate the Code we reley on XML based API descriptions. Those files can be found in the [gir-files](https://github.com/gircore/gir-files) repository.
 
-If you want to write C# code which integrates well into the GObject stack, feel free to visist our [website](https://gircore.github.io/)
+If you want to write C# code which integrates well into the GObject stack, feel free to visist our [website](https://gircore.github.io/).
